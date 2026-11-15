@@ -1,46 +1,54 @@
 # 🎓 Smart Student Record Management System
-### With File Handling & AI Smart Search | ACET Aligarh | AKTU
+
+### With File Handling & AI Smart Search | ACET Aligarh
 
 > B.Tech CSE 2nd Year Mini Project - By Gaurang Saxena
 
 ---
 
 ### 📌 About Project
-Digital version of college register system. Add, View, and Search student records with permanent storage and AI-based smart search.
 
-**College:** ACET Aligarh | **University:** AKTU | **Session:** 2025-26
+Digital version of college register system. Add, View, Search and Delete student records easily.
+
+**College:** ACET Aligarh | **University:** AKTU Lucknow
+**Name:** Gaurang Saxena | **Roll No.:** 2501090100023
+**Guide:** Akash Kumar Jain | **Session:** 2026-27
 
 ---
 
 ### 🚀 Features
+
 - ✅ Add Student Records
 - ✅ View All Students
 - ✅ Normal Search by Roll No
-- ✅ AI Smart Search - Finds name even with wrong spelling
-- ✅ File Handling - Data saved permanently
+- ✅ AI Smart Search - Finds name even with wrong spelling (Ex: Gorang -> Gaurang)
+- ✅ Delete Student - When student leaves college
+- ✅ File Handling - Data saved permanently in Gaurang_ACET_Students_2025.txt
 - ✅ Show Stats
+- ✅ Exit
+
+**Total 7 Options**
 
 ---
 
-### 💻 Tech Used
-- Python 3
-- File Handling (r, w, a modes)
-- AI: difflib.get_close_matches
-- File: Gaurang_ACET_Students_2025.txt
+### 💻 How To Run
+
+1. Install Python 3.8 or above
+2. Download file - FINAL_With_Delete_Gaurang_Saxena.py
+3. Open in IDLE and Press F5
+4. Enter Choice 1 to 7
 
 ---
 
-### 🛠️ How to Run
-1. Download FINAL_Submission_Gaurang_Saxena_ACET.py
-2. Run: python FINAL_Submission_Gaurang_Saxena_ACET.py
-3. Press 1 to Add, 2 to View, 4 for AI Search
+### 🛠️ Technologies Used
+
+- Python
+- File Handling
+- difflib - get_close_matches for AI Search
 
 ---
 
-### 👨‍💻 Author
-**Gaurang Saxena**
-B.Tech CSE 2nd Year
-ACET Aligarh | AKTU
+### 📁 Files
 
----
-Made for AKTU Mini Project ❤️
+- FINAL_With_Delete_Gaurang_Saxena.py - Main Source Code
+- README.md - Project Details
